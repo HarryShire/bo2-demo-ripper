@@ -1,0 +1,4 @@
+<Weavers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="FodyWeavers.xsd">
+  <!-- Embed referenced DLLs (SharpDX) into the exe so DemoRipper ships as a single file. -->
+  <Costura />
+</Weavers>
